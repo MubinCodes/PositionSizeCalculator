@@ -109,7 +109,7 @@ This tool is useful for:
 
 ### Position Size Calculator Inputs
 
-![Inputs](screenshots/Inputs.png)
+
 
 
 ---
